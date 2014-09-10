@@ -1,0 +1,100 @@
+a{
+	font-family: tahoma;
+    font-size: 12px;
+	border: 0px;
+	text-decoration:none;	
+}
+
+body{
+width: 450px;	
+}
+.semerrar{
+    font-family: tahoma;
+    font-size: 22px;
+	color: #6489af;
+    margin-bottom: 5px;
+    display: block;
+    padding: 4px;
+    border: solid 1px #85b1de;
+    width: inherit;
+    background-image: url( 'blue_bg.png' );
+    background-repeat: repeat-x;
+    background-position: top;
+} 
+
+.errado{
+    font-family: tahoma;
+    font-size: 22px;
+	color: red;
+    margin-bottom: 5px;
+    display: block;
+    padding: 4px;
+    border: solid 1px #ff8587;
+    width: inherit;
+    background-image: url( 'red_bg.png' );
+    background-repeat: repeat-x;
+    background-position: top;
+} 
+
+.frase{
+	width:inherit;
+	vertical-align:middle;
+    font-family:"Courier New", Courier, monospace;
+	color: #6489af;
+    font-size: 18px;
+	background-image:url('aspas.png');
+	background-repeat:no-repeat;
+	padding-left:30px;
+	padding-right:30px;
+	padding-bottom:20px;
+} 
+
+.autor{
+	width:inherit;
+	text-align:right;
+    font-family:"Courier New", Courier, monospace;
+	color: #6489af;
+    font-size: 13px;
+	font-style:italic;
+} 
+
+.marcado{
+	color: red;
+	text-decoration:underline;
+	display: inline;
+}
+.normal{
+	color: #6489af;
+	text-decoration: none;
+	display: inline;
+}
+
+.contador{
+    font-family:"Courier New", Courier, monospace;
+	color: #6489af;
+    font-size: 18px;
+} 
+
+.conclusao{
+	width:200px;
+    font-family:"Courier New", Courier, monospace;
+	color: #3d4d70;
+    font-size: 18px;
+	background-image:url('fundocomeco.png');
+	padding-left:30px;
+	padding-right:30px;
+	border:1px dashed #333;
+} 
+.botao{
+	font-family: tahoma;
+    font-size: 22px;
+	color: #6489af;
+    margin-bottom: 5px;
+    display: block;
+    padding: 4px;
+	border:1px dashed #85b1de;
+    width: inherit;
+    background-image: url( 'blue_bg.png' );
+    background-repeat: repeat-x;
+    background-position: top;
+}
